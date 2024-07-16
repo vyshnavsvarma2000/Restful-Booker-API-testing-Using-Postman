@@ -42,10 +42,10 @@ Before running the tests, make sure the following tools are installed:
 ### Installation Steps:
 
 1. Clone the project repository:
-git clone <repository-url>
+ git clone <repository-url>
 
 2. Install necessary dependencies:
-npm install
+ npm install
 
 3. Update environment variables (e.g., base URL) in the `.env` file (optional).
 
